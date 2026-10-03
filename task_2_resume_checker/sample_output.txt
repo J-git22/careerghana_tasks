@@ -1,0 +1,43 @@
+======================================================================
+                    RESUME KEYWORD CHECKER REPORT
+======================================================================
+Resume File:   sample_resume.txt
+Keywords File: sample_job_keywords.txt
+Total Keywords Analyzed: 20
+Keywords Found:          13 (65.0%)
+Keywords Missing:        7 (35.0%)
+Compatibility Rating:    GOOD MATCH (Meets most core qualifications)
+----------------------------------------------------------------------
+
+[+] FOUND KEYWORDS (13):
+    The following skills/technologies from the job posting are on the resume:
+    [X] Python                   (6 occurrences)
+    [X] Docker                   (4 occurrences)
+    [X] Flask                    (4 occurrences)
+    [X] GitHub                   (4 occurrences)
+    [X] Agile                    (3 occurrences)
+    [X] PostgreSQL               (3 occurrences)
+    [X] FastAPI                  (2 occurrences)
+    [X] Git                      (2 occurrences)
+    [X] REST APIs                (2 occurrences)
+    [X] SQLite                   (2 occurrences)
+    [X] Linux                    (1 occurrence)
+    [X] TDD                      (1 occurrence)
+    [X] Unit Testing             (1 occurrence)
+
+[-] MISSING KEYWORDS (7):
+    The following skills/technologies from the job posting were NOT found:
+    [ ] AWS
+    [ ] CI/CD
+    [ ] Django
+    [ ] GraphQL
+    [ ] Kubernetes
+    [ ] MongoDB
+    [ ] Redis
+
+======================================================================
+RECOMMENDATION / ACTIONABLE ADVICE:
+• If you have experience with any of the 7 missing keywords above,
+  make sure to explicitly include them in your skills, project bullet points,
+  or experience descriptions to improve your ATS (Applicant Tracking System) score.
+======================================================================

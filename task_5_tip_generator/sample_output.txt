@@ -1,0 +1,17 @@
++======================================================================+
+|                    DAILY CAREER COACH & MOTIVATION                     |
+|                           September 15, 2026                           |
+|----------------------------------------------------------------------|
+|  Category: Growth Mindset  |  Tip #3                                   |
+|----------------------------------------------------------------------|
+|                                                                      |
+|    "The only way to go fast, is to go well."                         |
+|                                      — Robert C. Martin (Uncle Bob)  |
+|                                                                      |
+|----------------------------------------------------------------------|
+|  TODAY'S ACTIONABLE CHALLENGE:                                        |
+|    • Never rush by skipping automated tests or documentation.        |
+|    • Investing 15 minutes in a test suite saves days of debugging    |
+|    • down the road.                                                  |
+|                                                                      |
++======================================================================+

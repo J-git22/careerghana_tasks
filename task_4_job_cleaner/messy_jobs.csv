@@ -1,0 +1,21 @@
+job_id,job_title,company_name,location,salary_range,job_type,posted_date,department
+101,  python developer  ,  Acme Corp  ,"  new york, ny ","$110,000 - $130,000",full time,2026-08-10,Engineering
+102,DATA SCIENTIST,Beta Analytics,"SAN FRANCISCO, CA","$130k - $160k",Full-Time,08/12/2026,  Data & AI  
+103,  junior backend engineer ,acme corp,"New York, NY","$90,000 - $105,000",FT,2026-08-15,Engineering
+104,machine learning engineer,DeepVision Labs, remote  ,"$140,000 / yr",Full-time,"Aug 14, 2026",Engineering
+105,UI/UX DESIGNER,PixelCraft Studio,"Austin, tx ","$85k - $100k",Contract,2026-08-18,Design
+106,devops engineer,CloudScale Systems,"seattle, wa","$125,000 - $145,000",full-time,08/19/2026,Infrastructure
+107,cybersecurity analyst,CyberShield,"Washington, DC ","$100,000 - $120,000",Full Time,2026-08-20,Security
+108,  software engineer intern, Acme Corp ,"new york, ny",$35/hr,intern,2026-08-21,
+109,frontend developer,WebFlow Dynamics,"CHICAGO, IL ","$95,000 - $115,000",Full-Time,2026-08-22,Frontend
+110,Data Analyst,Beta Analytics,"San Francisco, ca",Competitive,Full-Time,"Aug 23, 2026",Analytics
+111,  python developer  ,  Acme Corp  ,"  new york, ny ","$110,000 - $130,000",full time,2026-08-10,Engineering
+112,Cloud Architect,Skyline Tech,Remote,"  $160,000 - $190,000  ",Full-Time,2026-08-24,Infrastructure
+113,QA automation engineer,NextGen Software,"Boston, ma","$90k - $110k",contract,08/25/2026,Quality Assurance
+114,product manager,Apex Innovations,"Los Angeles, CA","$120,000 - $150,000",full time,2026-08-26,Product
+115,  AI RESEARCH SCIENTIST  ,DeepVision Labs,remote,"$170k - $210k",Full-Time,2026-08-27,Research
+116,database administrator,DataCore Inc,"Denver, co ","$105,000 - $125,000",FT,2026-08-28,Operations
+117,technical writer,DevDocs Co,Remote,DOE,Part-Time,"Aug 29, 2026",Documentation
+118,systems engineer,DefenseNet,"WASHINGTON, DC","$115,000 - $135,000",Full-time,2026-08-30,Infrastructure
+119,Mobile Developer (iOS/Android),AppCraft,"Austin, TX","$110k - $130k",full time,08/31/2026,Mobile
+120,data scientist,Beta Analytics,"san francisco, ca","$130k - $160k",Full-Time,2026-09-01,Data & AI

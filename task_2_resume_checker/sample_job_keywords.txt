@@ -1,0 +1,21 @@
+# Target Job Keywords for Junior Python Backend Developer
+Python
+FastAPI
+Flask
+Django
+PostgreSQL
+SQLite
+MongoDB
+REST APIs
+GraphQL
+Docker
+Kubernetes
+AWS
+Git
+GitHub
+CI/CD
+Linux
+Unit Testing
+TDD
+Agile
+Redis

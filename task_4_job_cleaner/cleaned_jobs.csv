@@ -1,0 +1,19 @@
+job_id,job_title,company_name,department,location,job_type,min_salary_usd,max_salary_usd,avg_salary_usd,posted_date
+101,Python Developer,Acme Corp,Engineering,"New York, NY",Full-Time,110000,130000,120000,2026-08-10
+102,Data Scientist,Beta Analytics,Data & AI,"San Francisco, CA",Full-Time,130000,160000,145000,2026-08-12
+103,Junior Backend Engineer,Acme Corp,Engineering,"New York, NY",Full-Time,90000,105000,97500,2026-08-15
+104,Machine Learning Engineer,Deepvision Labs,Engineering,Remote,Full-Time,140000,140000,140000,2026-08-14
+105,UI/UX Designer,Pixelcraft Studio,Design,"Austin, TX",Contract,85000,100000,92500,2026-08-18
+106,DevOps Engineer,Cloudscale Systems,Infrastructure,"Seattle, WA",Full-Time,125000,145000,135000,2026-08-19
+107,Cybersecurity Analyst,Cybershield,Security,"Washington, DC",Full-Time,100000,120000,110000,2026-08-20
+108,Software Engineer Intern,Acme Corp,General / Not Specified,"New York, NY",Internship,72800,72800,72800,2026-08-21
+109,Frontend Developer,Webflow Dynamics,Frontend,"Chicago, IL",Full-Time,95000,115000,105000,2026-08-22
+110,Data Analyst,Beta Analytics,Analytics,"San Francisco, CA",Full-Time,,,,2026-08-23
+112,Cloud Architect,Skyline Tech,Infrastructure,Remote,Full-Time,160000,190000,175000,2026-08-24
+113,QA Automation Engineer,Nextgen Software,Quality Assurance,"Boston, MA",Contract,90000,110000,100000,2026-08-25
+114,Product Manager,Apex Innovations,Product,"Los Angeles, CA",Full-Time,120000,150000,135000,2026-08-26
+115,AI Research Scientist,Deepvision Labs,Research,Remote,Full-Time,170000,210000,190000,2026-08-27
+116,Database Administrator,Datacore Inc,Operations,"Denver, CO",Full-Time,105000,125000,115000,2026-08-28
+117,Technical Writer,Devdocs Co,Documentation,Remote,Part-Time,,,,2026-08-29
+118,Systems Engineer,Defensenet,Infrastructure,"Washington, DC",Full-Time,115000,135000,125000,2026-08-30
+119,Mobile Developer (iOS/Android),Appcraft,Mobile,"Austin, TX",Full-Time,110000,130000,120000,2026-08-31

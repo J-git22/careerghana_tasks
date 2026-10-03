@@ -1,0 +1,43 @@
+ALEX MORGAN
+Email: alex.morgan@example.com | Phone: (555) 019-2834 | GitHub: github.com/alexmorgan-dev
+Location: Seattle, WA | LinkedIn: linkedin.com/in/alexmorgan-dev
+
+PROFESSIONAL SUMMARY
+Motivated and detail-oriented Computer Science graduate with solid hands-on experience in Python backend development, REST API design, and database integration. Experienced in collaborating within Agile teams, building web applications, and writing automated unit tests. Eager to contribute to high-impact software engineering projects.
+
+TECHNICAL SKILLS
+Languages: Python, JavaScript, SQL, HTML, CSS, Bash
+Frameworks & Libraries: FastAPI, Flask, Pandas, Requests, PyTest
+Databases: PostgreSQL, SQLite
+Tools & DevOps: Git, GitHub, Docker, Linux, Postman
+Methodologies: Agile, Scrum, Test-Driven Development (TDD), Code Reviews
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Washington, Seattle, WA
+Graduation: May 2024 | GPA: 3.8/4.0
+Relevant Coursework: Data Structures & Algorithms, Database Systems, Operating Systems, Web Development
+
+PROJECTS
+TaskFlow - Collaborative Project Management API | Python, FastAPI, PostgreSQL, Docker
+• Designed and implemented RESTful endpoints for user authentication (JWT), task boards, and comment threads.
+• Integrated PostgreSQL relational database with SQLAlchemy ORM and Alembic schema migrations.
+• Containerized the backend application using Docker and configured Docker Compose for local development.
+• Achieved 88% test coverage using PyTest for unit testing and integration tests.
+
+MarketPulse - E-commerce Price Tracker | Python, Flask, Pandas, SQLite
+• Developed an automated scraper and price-tracking tool using Python and Beautiful Soup.
+• Processed and cleaned daily pricing data using Pandas to identify historical price drops.
+• Created a lightweight Flask dashboard displaying interactive charts for 500+ monitored products.
+
+WORK EXPERIENCE
+Software Engineering Intern | Apex Digital Solutions, Seattle, WA
+June 2023 - August 2023
+• Collaborated in a 6-person Agile sprint team to modernize legacy internal services using Python and Flask.
+• Implemented 12 new REST API endpoints consumed by the frontend web application.
+• Reduced API response latency by 25% through database query indexing and caching strategies.
+• Participated in daily standups, sprint planning sessions, and peer code reviews via Git and GitHub.
+
+HONORS & ACTIVITIES
+• 1st Place, Annual Hackathon 2023 - Developed an emergency logistics coordination tool
+• Member, Association for Computing Machinery (ACM)
